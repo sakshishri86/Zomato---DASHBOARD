@@ -42,7 +42,7 @@ The dashboard focuses on the most critical metrics for a food delivery business:
 
 Due to the security policies of the Power BI account, a public web link for the interactive dashboard cannot be generated. However, the complete dashboard can be viewed through the following method:
 
-*   ** View the Full PDF Report:** A high-quality PDF export of all dashboard pages is available for a comprehensive overview.
+*   View the Full PDF Report: A high-quality PDF export of all dashboard pages is available for a comprehensive overview.
     
 
 
